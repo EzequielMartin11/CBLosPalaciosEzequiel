@@ -1,0 +1,93 @@
+#navPrincipal{
+    background-color: #1D6373;
+    
+}
+
+#menuDrop{
+    background-color: #1D6373;
+    
+}
+
+.nav-item{
+    transition: transform 0.3s ease;
+}
+
+.nav-item:hover{
+    transform: scale(1.2);
+    
+}
+
+.dropdown-item:hover{
+    background-color:#0f485c;
+}
+
+#btnListarUsuarios{
+    color:azure;
+    background-color:#1D6373;
+    border-radius: 5px;
+    border:none;
+}
+
+#btnListarUsuarios:hover{
+    background-color:#0f485c;
+    border-radius: 5px;
+    border:none;
+}
+
+#btnListarCompras{
+    color:azure;
+    background-color:#1D6373;
+    border-radius: 5px;
+    border:none;
+}
+
+#btnListarCompras:hover{
+    background-color:#0f485c;
+    border-radius: 5px;
+    border:none;
+}
+
+.btn-danger{
+    background-color: #dc1c31;
+    margin:1%;
+    border-radius: 5px;
+    border:none;
+}
+
+.btn-warning{
+    background-color: #F2BC1B;
+    margin:1%;
+    border-radius: 5px;
+    border:none;
+}
+
+.btn-primary{
+    color:azure;
+    background-color:#1D6373;
+    margin:1%;
+    border-radius: 5px;
+    border:none;
+}
+
+.btn-primary:hover{
+    background-color:#0f485c;
+    border-radius: 5px;
+    border:none;
+}
+
+#contenedorPrincipal{
+    margin-left:2%;
+}
+
+#tablaUsuariosDiv{
+    margin:2%;
+}
+
+#tablaComprasDiv{
+    margin:2%;
+}
+
+#formEditar{
+    margin:2%;
+}
+

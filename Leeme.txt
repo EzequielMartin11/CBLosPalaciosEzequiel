@@ -1,0 +1,17 @@
+Inicios de Sesión
+		
+		Usuario		Contraseña
+
+-Admin-->   admin@admin.com /   admin1
+-Usuario--> user@user.com   /	user1
+
+Link Proyecto Desplegado
+https://webezequielmartinduran.000webhostapp.com/CB%20Los%20Palacios/login/index.php
+
+Login phpmyadmin para el proyecto desplegado:
+Usuario: id20906266_ezequiel
+Contraseña: Ezequiel11@
+Base de datos: id20906266_cblospalacios
+
+Lin GitHub
+https://github.com/EzequielMartin11/CBLosPalacios.git

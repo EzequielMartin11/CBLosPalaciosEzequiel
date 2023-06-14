@@ -1,0 +1,128 @@
+
+/*** MENU NAVBAR***/
+#navPrincipal{
+    background-color: #1D6373;
+    
+}
+
+#menuDrop{
+    background-color: #1D6373;
+    
+}
+
+.nav-item{
+    transition: transform 0.3s ease;
+}
+
+.nav-item:hover{
+    transform: scale(1.2);
+    
+}
+
+.dropdown-item:hover{
+    background-color:#0f485c;
+}
+
+/***RESTO PÁGINA***/
+
+#btnAñadir{
+    background-color:#1D6373;
+    border-radius: 5px;
+    border:none;
+    margin:1%;
+}
+
+#btnAñadir:hover{
+    background-color:#0f485c;
+    border-radius: 5px;
+    border:none;
+}
+
+.increment-btn{
+    background-color: #1D6373;
+    border:none;
+    margin:1%;
+}
+
+.increment-btn:hover{
+    background-color: #1D6373;
+    color:lightgray;
+    border:none;
+    margin:1%;
+}
+
+.decrement-btn{
+    background-color: #1D6373;
+    border:none;
+    margin:1%;
+}
+
+.decrement-btn:hover{
+    background-color: #1D6373;
+    border:none;
+    margin:1%;
+}
+
+/******PARTE ADMINISTRADOR********/
+
+.btn-danger{
+    background-color: #dc1c31;
+    margin:1%;
+    border-radius: 5px;
+    border:none;
+}
+
+.btn-warning{
+    background-color: #F2BC1B;
+    margin:1%;
+    border-radius: 5px;
+    border:none;
+}
+
+.add-partido-btn{
+    background-color:#1D6373;
+    border-radius: 5px;
+    border:none;
+    margin:2%;
+}
+
+.add-partido-btn:hover{
+    background-color: #0f485c;
+    border:none;
+}
+
+.formulario-editar{
+    margin-left:2%;
+}
+
+#vsInput{
+    width:20%;
+}
+
+#fechaInput{
+    width:20%;
+}
+
+#horaInput{
+    width:20%;
+}
+
+#lugarInput{
+    width:20%;
+}
+
+#precioInput{
+    width:20%;
+}
+
+.btn-primary{
+    background-color:#1D6373;
+    border-radius: 5px;
+    border:none;
+}
+
+.btn-primary:hover{
+    background-color:#0f485c;
+    border-radius: 5px;
+    border:none;
+}

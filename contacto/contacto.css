@@ -1,0 +1,84 @@
+#navPrincipal{
+    background-color: #1D6373;
+    
+}
+
+#menuDrop{
+    background-color: #1D6373;
+    
+}
+
+
+.nav-item{
+    transition: transform 0.3s ease;
+}
+
+.nav-item:hover{
+    transform: scale(1.2);
+    
+}
+
+
+.dropdown-item:hover{
+    background-color:#0f485c;
+}
+
+
+
+/*******FIN NAVBAR***********/
+/**
+#botonInstagram{
+    
+    position: absolute;
+    left: 25%;
+    margin-top:10%;
+    text-align: center;
+    display:flex;
+    
+}
+*/
+#btnInstagram{
+    font-size: 150%;
+}
+
+#btnFacebook{
+    font-size:150%;
+}
+
+#btnTlf{
+    font-size: 150%;
+
+}
+
+#inputEmail{
+    font-size: 150%;
+    text-decoration: none;
+    color:inherit;
+
+}
+/**
+#botonFacebook{
+    position: absolute;
+    right: 25%;
+    margin-top:10%;
+    text-align: center;
+    display:flex;
+}
+
+
+#botonTelefono{
+    position: absolute;
+    left: 25%;
+    margin-top: 30%;
+    text-align: center;
+    display:flex;
+}
+
+#botonEmail{
+    position: absolute;
+    right: 29%;
+    margin-top: 30%;
+    text-align: center;
+    display:flex;
+}
+*/

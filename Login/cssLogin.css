@@ -1,0 +1,69 @@
+body{
+    display:block;
+    position:relative;
+    background-color: #1D6373;
+}
+#btnRegistro:hover{
+    color:#1b7191;
+}
+#enlaceRegistrar{
+    position: absolute;
+    padding-bottom:1%;
+    
+}
+
+#divForm{
+    position:relative;
+    padding-top:18%;
+}
+
+#botonAceptarLogin{
+    background-color: #1b7191;   
+    font-size:large;
+    border-radius: 5px;
+    border:none;
+}
+
+#botonAceptarLogin:hover{
+background-color:#0f485c;
+}
+
+#video_background {
+    position: absolute;
+    width: 100%;
+    height:100%;
+    z-index: -1000;
+    overflow: hidden;
+    opacity:0.65;
+    display:flex;
+}
+
+#divLogoPrincipal{
+margin-top:5%;
+display:flex;
+position:relative;
+}
+
+#logoPrincipal{
+    position: absolute;
+    width:15%;
+    top:20%;
+    left:43%;
+    margin-top:0%;
+    display:flex;
+}
+#emailLabel{
+    font-size: large;
+    color:#1b7191;
+}
+#passwordLabel{
+    font-size:large;
+    color:#1b7191;
+}
+#emailInput{
+    font-size:large;
+}
+#passwordInput{
+    font-size:large;
+}
+
